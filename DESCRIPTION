@@ -8,3 +8,6 @@ Description: R package containing functions and tests around Coursera's Data Sci
 License: What license is it under?
 LazyData: TRUE
 RoxygenNote: 5.0.1
+Imports:
+  lubridate,
+  yaml
