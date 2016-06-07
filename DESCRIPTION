@@ -1,0 +1,10 @@
+Package: courseraSkCapstone
+Type: Package
+Title: Coursera Capstone Project
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: Ezra Tucker <ezztucker@gmail.com>
+Description: R package containing functions and tests around Coursera's Data Science Capstone in analyzing and predicting text for the purposes of natural language processing.
+License: What license is it under?
+LazyData: TRUE
+RoxygenNote: 5.0.1

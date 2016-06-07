@@ -1,0 +1,10 @@
+#settings.yml
+
+Environment:
+  Testing:
+    skFiles: '~/Documents/coursera/capstone/Coursera-SwiftKey/final'
+    cacheFiles: '../testdata' # the testthat working dir is in tests/testthat
+
+  Production:
+    skFiles: '~/Documents/coursera/capstone/Coursera-SwiftKey/final'
+    cacheFiles: '~/Documents/coursera/capstone/data/cache'
